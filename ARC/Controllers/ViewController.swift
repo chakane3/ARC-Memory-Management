@@ -14,8 +14,7 @@ class ViewController: UIViewController {
     print("viewDidLoad")
     
     configurePersonApartment()
-    
-    //configureLabController()
+    configureLabController()
   }
   
   func configurePersonApartment() {
